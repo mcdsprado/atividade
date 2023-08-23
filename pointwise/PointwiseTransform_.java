@@ -18,6 +18,7 @@ public class Inverse_ {
 		(new ImagePlus("Inverse of " + imp.getTitle(), output.createByteProcessor())).show();
 	}
 }
+//teste2222
 
 public class Rescale_ {
 
